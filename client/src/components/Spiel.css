@@ -1,0 +1,10 @@
+.notcard{
+    background-color:white;
+    cursor:pointer; 
+}
+
+.notcard:hover{
+    background-color: black;
+    opacity: 1;
+}
+

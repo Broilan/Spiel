@@ -1,0 +1,16 @@
+.home {
+    display: flex;
+    justify-content: center;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+
+
+
+.spielFeed {
+    position: absolute;
+    border:  1px solid white;
+    width: 30vw;
+}

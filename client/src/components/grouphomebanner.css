@@ -1,0 +1,17 @@
+.childx, .childy{
+    position:relative;
+    border: none;
+    background-color: white;
+    bottom: -10px
+}
+
+
+.childx:hover{
+background-color: lightgray;
+opacity: 90%;
+}
+
+.childy:hover{
+    background-color: lightgray;
+    opacity: 90%;
+    }

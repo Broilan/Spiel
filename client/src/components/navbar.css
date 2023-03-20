@@ -1,0 +1,25 @@
+nav {
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: darkgray;
+    height: 60px;
+    line-height: 60px;
+}
+
+.logout:hover {
+    text-decoration:none;
+    text-shadow: 1px 1px 1px #555;
+}
+
+.listItem {
+    cursor:pointer; 
+}
+
+.listItem:hover {
+    background-color: black;
+    opacity: 0.75;
+    color: white;
+}
+
