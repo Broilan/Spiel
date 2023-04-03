@@ -74,6 +74,3 @@ PROFILE PAGE
 SETTINGS PAGE
 ----------------
 ![spiel-settingspage-wireframe](https://user-images.githubusercontent.com/107972255/218222004-488ca591-eb81-4736-8f88-1d6805ad2cbb.png)
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-All in all, Spiel is a fully operational full-stack social media beyond a few minor things I'd like to touch up on in the future. I'm very happy to call this one of my first portfolio projects, and I'll certainly return to it's code to make it even better in the future.
